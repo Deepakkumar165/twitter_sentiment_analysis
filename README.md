@@ -69,6 +69,6 @@ twitter_sentiment_analysis/
 
 ## 🧑‍💻 Author
 **Deepak Kumar**  
-📧 [deepak.kumar8434543@gmail.com]  
-🔗 [www.linkedin.com/in/deepak-kumar-acb2002]  
-🌐 [https://github.com/Deepakkumar165]
+📧 Email : [deepak.kumar8434543@gmail.com]  
+🔗 LinkedIn : [www.linkedin.com/in/deepak-kumar-acb2002]  
+🌐 GitHub : [https://github.com/Deepakkumar165]
