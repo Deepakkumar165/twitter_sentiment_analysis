@@ -51,11 +51,14 @@ This was an **independent solo project** completed to strengthen my skills in Py
 ---
 
 ## 🗂️ Project Structure
+## 🗂️ Project Structure
+```plaintext
 twitter_sentiment_analysis/
 │
 ├── twitter_sentiment_analysis.ipynb     # Main Jupyter Notebook with preprocessing, EDA, and ML models
 └── data/
     └── tweets.csv                       # Raw dataset used for sentiment analysis
+
 
 ## 🚀 Future Improvements
 - Experiment with advanced NLP models such as **BERT** or **LSTM**  
