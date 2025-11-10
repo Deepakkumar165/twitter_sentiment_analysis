@@ -58,6 +58,7 @@ twitter_sentiment_analysis/
 ├── twitter_sentiment_analysis.ipynb     # Main Jupyter Notebook with preprocessing, EDA, and ML models
 └── data/
     └── tweets.csv                       # Raw dataset used for sentiment analysis
+```
 
 
 ## 🚀 Future Improvements
@@ -72,4 +73,3 @@ twitter_sentiment_analysis/
 📧 [deepak.kumar8434543@gmail.com]  
 🔗 [www.linkedin.com/in/deepak-kumar-acb2002]  
 🌐 [https://github.com/Deepakkumar165]
-  
