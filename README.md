@@ -51,7 +51,6 @@ This was an **independent solo project** completed to strengthen my skills in Py
 ---
 
 ## 🗂️ Project Structure
-## 🗂️ Project Structure
 ```plaintext
 twitter_sentiment_analysis/
 │
